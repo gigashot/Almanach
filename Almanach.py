@@ -1,36 +1,36 @@
 
 plant1 = {
-"NAME": "Peashooter",
-"DAMAGE": "normal",
-"DESCRIPTION": "yapping",
-"COST": 100,
-"RECHARGE": "fast",
+"Name": "Peashooter",
+"Damage": "normal",
+"Description": "yapping",
+"Cost": 100,
+"Recharge": "fast",
 }
 
 
 plant2 = {
-"NAME": "Squash",
-"DAMAGE": "massive",
-"DESCRIPTION": "AUUHUGA",
-"COST": 50,
-"RECHARGE": "slow",
+"Name": "Squash",
+"Damage": "massive",
+"Description": "AUUHUGA",
+"Cost": 50,
+"Recharge": "slow",
 }
 
 plant3 = {
-"NAME": "Sunflower",
-"SUN_PRODUCTION": "normal",
-"DESCRIPTION": "hihi",
-"COST": 50,
-"RECHARGE": "fast",
+"Name": "Sunflower",
+"Sun Production": "normal",
+"Description": "hihi",
+"Cost": 50,
+"Recharge": "fast",
 }
 
 plant4 = {
-"NAME": "Tall-nut",
+"Name": "Tall-nut",
 "Toughness": "very high",
-"SPECIAL":"none",
-"DESCRIPTION": "UHUDGIAU",
-"COST": 125,
-"RECHARGE": "slow",
+"Special":"none",
+"Description": "UHUDGIAU",
+"Cost": 125,
+"Recharge": "slow",
 }
 
 plants = {
